@@ -1,7 +1,7 @@
 # Tetris
 A tetris game made with python and a pygame library
 
-It has features such as:
+Features:
   - counting score
   - saving the highest score to a json file
   - clearing the filled lines
